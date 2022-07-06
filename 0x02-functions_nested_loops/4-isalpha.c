@@ -1,5 +1,5 @@
 #include "main.h"
-/** 
+/**
  * _isalpha- Check for letter
  * @c: character to check
  * Description: function returns 1 if the character is a letter,
