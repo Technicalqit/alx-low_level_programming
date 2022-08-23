@@ -68,3 +68,5 @@ int main(int argc, char *argv[])
 	close(fd_1) == -1 ? (__exit(100, NULL, fd_1)) : close(fd_1);
 	return (0);
 }
+
+
